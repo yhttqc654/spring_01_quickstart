@@ -1,7 +1,6 @@
-package com.itheima.service.impl;
+package com.itheima.service.Impl;
 
 import com.itheima.dao.BookDao;
-import com.itheima.dao.impl.BookDaoImpl;
 import com.itheima.service.BookService;
 
 public class BookServiceImpl implements BookService {
